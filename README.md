@@ -9,8 +9,6 @@
 
 Size Sunacağım Bu Ticket V14 Botu 40 Starda Paylaşacağım Herkese Hayırlı Günler. Botu Erkenden Görmek İsteyenler Aşşağıdaki Discord Hesabıma Yazabilir.
 
-Görseller : ![Örnek Görsel](https://prnt.sc/9Dpaosgo0Emp)
-
 ```js
 "settings.json" Dosyasını doldurunuz
 
