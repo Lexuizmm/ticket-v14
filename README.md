@@ -1,7 +1,7 @@
 **V14 Ticket System & Shiva, Lexuizm**
 
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=shewnsex&color=yellow"/>
+    <img src="https://komarev.com/ghpvc/?username=Lexuizmm&color=yellow"/>
 </div>
 
 <a href="https://discord.gg/Sut8u83t" target="_blank">Discord sunucumuza katıl!</a>
