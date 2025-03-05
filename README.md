@@ -4,7 +4,7 @@
     <img src="https://komarev.com/ghpvc/?username=shewnsex&color=yellow"/>
 </div>
 
-<a href="https://discord.gg/dwW9CQw8C6" target="_blank">Discord sunucumuza katıl!</a>
+<a href="https://discord.gg/Sut8u83t" target="_blank">Discord sunucumuza katıl!</a>
 
 
 Sizin için geliştirmiş oldugum güzel v14 Ticket System botudur
@@ -21,7 +21,6 @@ Terminalden "npm i" yazarak modülleri indiriniz
 
 **Bize ulaşabileceğiniz sosyal medya bilgilerimiz:**
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1185163404609073173)](https://discord.com/users/921504197675991131)
  [![Discord](https://lanyard.cnrad.dev/api/920738699032014848)](https://discord.com/users/920738699032014848)
 
 
@@ -31,4 +30,4 @@ Terminalden "npm i" yazarak modülleri indiriniz
 
 # Açıklama!
 
-Botu çok önceden yapmıştık ve tekrar paylaşma kararı aldım iyi kullanımlar.
+Botu çok önceden Shiva İle beraber yapmıştık ve tekrar paylaşma kararı aldım iyi kullanımlar.
